@@ -1,5 +1,11 @@
 [
   {
+    "path": "libraries/com/mojang/authlib/authlib-injector-1.2.7.jar",
+    "hash": "9a401b2cdb97bf49e5c447dcfb0325979168b672",
+    "size": 344477,
+    "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/libraries/com/mojang/authlib/authlib-injector-1.2.7.jar"
+  },
+  {
     "path": "mods/1.20.1-SecurityCraft-v1.10.1.jar",
     "hash": "98e4af60aa0f272105b7ffcdf154d7ab670a73bc",
     "size": 4769715,
@@ -22,12 +28,6 @@
     "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4",
     "size": 580602,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/architectury-9.2.14-forge.jar"
-  },
-  {
-    "path": "mods/authlib-injector-1.2.7.jar",
-    "hash": "9a401b2cdb97bf49e5c447dcfb0325979168b672",
-    "size": 344477,
-    "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/authlib-injector-1.2.7.jar"
   },
   {
     "path": "mods/automobility-0.4.2+1.20.1-forge.jar",
