@@ -1,283 +1,283 @@
 [
   {
     "path": "mods/1.20.1-SecurityCraft-v1.10.1.jar",
-    "hash": "ec601ba570c5351c353fc1ee0eb2f4823d1c026d265a96d3ec802070a50b6ebd",
+    "hash": "98e4af60aa0f272105b7ffcdf154d7ab670a73bc",
     "size": 4769715,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/1.20.1-SecurityCraft-v1.10.1.jar"
   },
   {
     "path": "mods/3d_placeable_food-2.6.0-forge-1.20.1.jar",
-    "hash": "b1236607b9d0a6a930990167f61b4e12965092df6e57024cb974f07935a752ce",
+    "hash": "9d5b35bd8fab683dc89de7f2641c1b8cf024fbd5",
     "size": 4995239,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/3d_placeable_food-2.6.0-forge-1.20.1.jar"
   },
   {
     "path": "mods/ambulance-2.46-forge-1.20.1.jar",
-    "hash": "9853e1cc5a82c50b8f91fe1b3ad24957145cd4c1cd1ac8e72f548dddcc42f40f",
+    "hash": "6fa4a060f3c1da17738a95c96676214c69904046",
     "size": 627647,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/ambulance-2.46-forge-1.20.1.jar"
   },
   {
     "path": "mods/architectury-9.2.14-forge.jar",
-    "hash": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+    "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4",
     "size": 580602,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/architectury-9.2.14-forge.jar"
   },
   {
     "path": "mods/authlib-injector-1.2.7.jar",
-    "hash": "eaf14bc5acffc7d885bd5bd5942b99f36d6299302beae356b2fc5807fe42652b",
+    "hash": "9a401b2cdb97bf49e5c447dcfb0325979168b672",
     "size": 344477,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/authlib-injector-1.2.7.jar"
   },
   {
     "path": "mods/automobility-0.4.2+1.20.1-forge.jar",
-    "hash": "4ea3933ee2a9ffed5b739bbbf8a8c974737fd59cb6517c61c54b3eae9465ff54",
+    "hash": "007f228d2d728ec0ec79ab405d09b05a4ee7bed6",
     "size": 1054094,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/automobility-0.4.2+1.20.1-forge.jar"
   },
   {
     "path": "mods/bendy-lib-forge-4.0.0.jar",
-    "hash": "dd4af8f403fc9b2f1250144c4b6cb89ea46114be50e6fa00a6c9162cfc870b2b",
+    "hash": "d1e77cc4534cecc753a7d2ba4e84dec412a55025",
     "size": 50745,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/bendy-lib-forge-4.0.0.jar"
   },
   {
     "path": "mods/car-forge-1.20.1-1.0.32.jar",
-    "hash": "3d54850c041e6816f1b3912637a9374d2996a5cd2870428068d8025f535e0ce4",
+    "hash": "c5482c2c40fc2db4bcc904ad7ce92eafbf48597c",
     "size": 2653241,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/car-forge-1.20.1-1.0.32.jar"
   },
   {
     "path": "mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
-    "hash": "5fdbc245003d2cb46b92eb9120d7bca7f03422628daed24c818baa195efe8663",
+    "hash": "66d0ac56f3f6f1efbd6ed7b3cb4a48824d0585c0",
     "size": 2613393,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/cfm-forge-1.20.1-7.0.0-pre36.jar"
   },
   {
     "path": "mods/CreativeCore_FORGE_v2.12.28_mc1.20.1.jar",
-    "hash": "0c5939422e4eb1f852bbcfb21d95d5161f52772f0d95bafc842d1a139e6a4a07",
+    "hash": "1df4be91a66108003d71c1e5118b34327da83f57",
     "size": 1153850,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/CreativeCore_FORGE_v2.12.28_mc1.20.1.jar"
   },
   {
     "path": "mods/curios-forge-5.11.0+1.20.1.jar",
-    "hash": "814e7e7f3dcfe48c38479b35070d6ff5c9bfa2a235f793e849d8ac8caa98826a",
+    "hash": "f81eead8c73b88463a3beb335be008fc388c82fa",
     "size": 389988,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/curios-forge-5.11.0+1.20.1.jar"
   },
   {
     "path": "mods/emotecraft-for-MC1.20.1-2.2.7-a.build.49-forge.jar",
-    "hash": "ac5f0af8b20b957a5a4a516220994c0877dcd38a567b8a1331510b7c68cb11cf",
+    "hash": "ba099ef549d1bf54399c59898ca70bec25404859",
     "size": 677685,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/emotecraft-for-MC1.20.1-2.2.7-a.build.49-forge.jar"
   },
   {
     "path": "mods/EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar",
-    "hash": "29615e67bbc234dd818154a994554549cb54821cb4a49c72205b570aa559a1de",
+    "hash": "647b4dfdb721fc873092ccfaca40c03235034ed8",
     "size": 4726281,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar"
   },
   {
     "path": "mods/entityculling-forge-1.9.3-mc1.20.1.jar",
-    "hash": "c0160d378f5f00da72e7235a62caa615a5274a2346541101311b24442366ab71",
+    "hash": "8faea4818faab6b870ee370b52434b016542b519",
     "size": 477884,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/entityculling-forge-1.9.3-mc1.20.1.jar"
   },
   {
     "path": "mods/FarmersDelight-1.20.1-1.2.9.jar",
-    "hash": "45e8e4daf04283fc5a7fec955e6a1e622ee0e9d4e1b5e79dbcf5b095bb510082",
+    "hash": "ca9417c369e75d38dacdac59937223e5f6adcc18",
     "size": 2978080,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/FarmersDelight-1.20.1-1.2.9.jar"
   },
   {
     "path": "mods/ferritecore-6.0.1-forge.jar",
-    "hash": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+    "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
     "size": 123034,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/ferritecore-6.0.1-forge.jar"
   },
   {
     "path": "mods/firstaid-1.20.1-1.1.jar",
-    "hash": "c2021a688e301f7a44da0ae04163ec8b8f077154e02c48e89063027b0cf33e4a",
+    "hash": "afebe3773bd8b3f902ef54c3c98864bfb0d1e00e",
     "size": 450159,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/firstaid-1.20.1-1.1.jar"
   },
   {
     "path": "mods/framework-forge-1.20.1-0.7.11.jar",
-    "hash": "867fb1e75224d660c5b32a307f56d6cb9ceb7c0313d49fe0dd699323ca5f92fe",
+    "hash": "b37389d457febf630351b20609be2a1996761c26",
     "size": 306415,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/framework-forge-1.20.1-0.7.11.jar"
   },
   {
     "path": "mods/geckolib-forge-1.20.1-4.8.2.jar",
-    "hash": "a2e4bcc986ce360f4e85d545a86b04c8c9350543ebd17069b6a44c0a8939ffdc",
+    "hash": "395a9f21a36dc8466d67c2af67a904e7013460d1",
     "size": 1038979,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/geckolib-forge-1.20.1-4.8.2.jar"
   },
   {
     "path": "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
-    "hash": "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61",
+    "hash": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
     "size": 87550,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
   },
   {
     "path": "mods/Immersive Vehicles-1.20.1-22.18.0-pre.jar",
-    "hash": "f517778b98d4c36e1489f295c5ac20b59a1ba7ffacc6988b017a568f462ed542",
+    "hash": "8aef6e3e78350cb1e544b6206a7fc6429a70e450",
     "size": 6203626,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/Immersive Vehicles-1.20.1-22.18.0-pre.jar"
   },
   {
     "path": "mods/Kaminari Motor Work 2.6.1 16-20.jar",
-    "hash": "75ceba3502d286796ac733f63fd5b351678b44b4e9da01cf6fedc1b9895af8be",
+    "hash": "966ea300bb319d4c47df09a14134ac0e20ee5c42",
     "size": 176296347,
     "url": "https://pub-667cb3e69b324e049e8d10959a1d5bb9.r2.dev/mods/Kaminari Motor Work 2.6.1 16-20.jar"
   },
   {
     "path": "mods/Locks-Unoffical-forge-1.20.1-1.2.4.jar",
-    "hash": "5a4127be3e258ced89ec232536e612928711cce966f45f562579db1dbcd73b4a",
+    "hash": "a8f36065a705984324ab39107fa6de969a022522",
     "size": 615071,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/Locks-Unoffical-forge-1.20.1-1.2.4.jar"
   },
   {
     "path": "mods/MaFgLib-0.1.13-mc1.20.1.jar",
-    "hash": "ab7cc18b455edf4a186135a0b1a0931f469ea936831599e836c48e50eb325988",
+    "hash": "a5621373968f02cbe4cb5b2687d9fbea31e3d85e",
     "size": 521351,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/MaFgLib-0.1.13-mc1.20.1.jar"
   },
   {
     "path": "mods/modernlife-1.20.1-1.77.jar",
-    "hash": "dd06a8c73f73e8cf07c2b802018f7e6f496f9a15890bec77e022d3dbc7a296e5",
+    "hash": "3602ceca724625fffcc4ef372e197afe0c6423dc",
     "size": 4292380,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/modernlife-1.20.1-1.77.jar"
   },
   {
     "path": "mods/MTS Official Pack-1.20.1-V28.2.jar",
-    "hash": "2667adb955b2f2975f370f005f4ddef97ac3ab0fce36b4b69bdd4c4c12c4dd85",
+    "hash": "30ded8b8c1e7678be1f9db73d9366391ca198497",
     "size": 89590985,
     "url": "https://pub-667cb3e69b324e049e8d10959a1d5bb9.r2.dev/mods/MTS Official Pack-1.20.1-V28.2.jar"
   },
   {
     "path": "mods/nfm-2025.09.20a-1.20.1.jar",
-    "hash": "3a7012fc1137c7a2f08539879b0e1d88e7d7c847b78abc3ed4be88843c4ce573",
+    "hash": "ed76cfb172a370919ebfd0143369fdea37c6fc18",
     "size": 2337892,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/nfm-2025.09.20a-1.20.1.jar"
   },
   {
     "path": "mods/OptiFine_1.20.1_HD_U_I6.jar",
-    "hash": "0b67cb670aedf2e55a982f3d52b6d53e46791a0c984aa1d2ee58100fc9bfc650",
+    "hash": "227914ab1037762eae44a2e66a568b87d7a02365",
     "size": 7145205,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/OptiFine_1.20.1_HD_U_I6.jar"
   },
   {
     "path": "mods/paladin-furniture-mod-1.4.4-forge-mc1.20.1.jar",
-    "hash": "b81fbaee895cffb109c2a3c2c98f19317eaf04aa72f8bfb11037bde712baa45b",
+    "hash": "bd242268d6499670994f813ec64a36de8c95209a",
     "size": 5901346,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/paladin-furniture-mod-1.4.4-forge-mc1.20.1.jar"
   },
   {
     "path": "mods/plasmovoice-forge-1.20.1-2.1.8.jar",
-    "hash": "ec09fd81b701087ccc97cabd82687e119beec5af476cf7aab9fec8b429060d3c",
+    "hash": "5264240aefe6086f829875b2b02638b2cacaff59",
     "size": 12182458,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/plasmovoice-forge-1.20.1-2.1.8.jar"
   },
   {
     "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-    "hash": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+    "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
     "size": 181437,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
   },
   {
     "path": "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
-    "hash": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb",
+    "hash": "84c039f20b8f048c835c429c2c4a9fd82a5e65f6",
     "size": 5298162,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
   },
   {
     "path": "mods/pointblank-forge-1.20.1-1.9.6.jar",
-    "hash": "10d6e6ffe6fe8fbf43e9f4b7ff9d39f0cd6287e0bb9a5ee2def69cb350c61792",
+    "hash": "393c622efbf3641c0ab0f7df17f9de2f49de0bd8",
     "size": 17401034,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/pointblank-forge-1.20.1-1.9.6.jar"
   },
   {
     "path": "mods/Saros-Road-Signs-Mod-1.20.1-4.5.jar",
-    "hash": "43dd2ec168016d245f3cf35580e285be7f85283d2ed0c6d4fcbe6dc9e3b48364",
+    "hash": "4a21c06706b06eb4d01b2e40c8bbb26ca9f728b8",
     "size": 1881611,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/Saros-Road-Signs-Mod-1.20.1-4.5.jar"
   },
   {
     "path": "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
-    "hash": "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e",
+    "hash": "706d3eaf79ce5b33a30f3ad1aaa88a2a4483abf6",
     "size": 160887,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
   },
   {
     "path": "mods/skinned_lanterns-1.20.1-1.3.5.jar",
-    "hash": "d2f79397138007e4f9332a0753242f7b9c0b69497a6d2295397ebc07c03caf92",
+    "hash": "79881b6ce2d7290a19cac78d152e00a1caf4643e",
     "size": 557294,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/skinned_lanterns-1.20.1-1.3.5.jar"
   },
   {
     "path": "mods/sleepingoverhaul-2.1.0-forge-1.20.1.jar",
-    "hash": "166dcc8afa70517c3b604086c11fb35e206a0265889ed324449cf577ab719001",
+    "hash": "75bfed0c0c05278badf53a7975c727dec2d8cba3",
     "size": 290833,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/sleepingoverhaul-2.1.0-forge-1.20.1.jar"
   },
   {
     "path": "mods/the_dirty_stuff-2.1-forge-1.20.1.jar",
-    "hash": "664b0b21978703fb910f833aad6bd29d4f8ba7c2378c7a63dddf1c4019e97ee2",
+    "hash": "fa2a2ef8998c917997c3b39ff7985fc1cd3bc42f",
     "size": 664386,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/the_dirty_stuff-2.1-forge-1.20.1.jar"
   },
   {
     "path": "mods/wildberries-1.3.0-forge-1.20.1.jar",
-    "hash": "d3cff3acb92bcfda81522d5cbf9cff528bb590fe8b4f7eb83d52fac35e1143c6",
+    "hash": "a466619250f739543e0d081b6483f94edbc02323",
     "size": 631780,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/wildberries-1.3.0-forge-1.20.1.jar"
   },
   {
     "path": "mods/worldedit-mod-7.2.15.jar",
-    "hash": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+    "hash": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
     "size": 5825402,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/worldedit-mod-7.2.15.jar"
   },
   {
     "path": "mods/worry_christmas-1.0.0-forge-1.20.1.jar",
-    "hash": "b8fbc15f4ba01b431a6bebad6bbc98d83e4d361e77b227cd5fcf617a9f627239",
+    "hash": "ec6f414a3d4e10a96957d968eaa0fa0906f6a85a",
     "size": 14757528,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/worry_christmas-1.0.0-forge-1.20.1.jar"
   },
   {
     "path": "mods/xercapaint-1.20.1-1.0.1.jar",
-    "hash": "e675fa7c25b3a097db67b7729d7c9e0ff8d29377d9f08b91d336fe291abd8bc0",
+    "hash": "d8447a6f13406c0be84ac3037210a97b44158539",
     "size": 400817,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/xercapaint-1.20.1-1.0.1.jar"
   },
   {
     "path": "pointblank/EasternEuropeanArsenal_0.0.7_1.20.1.zip",
-    "hash": "94e27406d57d6449d27870f2ce5958244c11c4e1dbd3fef40524e4f2083a655b",
+    "hash": "b71b052399f3d6d2d837c700181446c6850f1e1c",
     "size": 6878943,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/pointblank/EasternEuropeanArsenal_0.0.7_1.20.1.zip"
   },
   {
     "path": "pointblank/pbext-ext 1.0.zip",
-    "hash": "e8dd990f93ffb202f133b29078c773678d6531786a680d979b0be1258ff66d4e",
+    "hash": "8c66be5394da97e75cbba4eb615ab91ab5d8fadf",
     "size": 767977,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/pointblank/pbext-ext 1.0.zip"
   },
   {
     "path": "resourcepacks/WacoRP Part 1.zip",
-    "hash": "cad46b7f39d3ee46a0bf4c94d501db41130fcbfee709410ca3c77aad30ef22ae",
+    "hash": "bb8f851d53692b6ab0e1c470c9d10501bf31ba6c",
     "size": 18156758,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/resourcepacks/WacoRP Part 1.zip"
   },
   {
     "path": "resourcepacks/WacoRP Part 2.zip",
-    "hash": "5af3ceebb03307d46facb5ab45946c8bc2de97c21654cb8275d5bc043837811f",
+    "hash": "214fb8d35f08a8d4ce9cce36d96bc9a1bbeeaf03",
     "size": 20854019,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/resourcepacks/WacoRP Part 2.zip"
   },
   {
     "path": "resourcepacks/WacoRP Part 3.zip",
-    "hash": "9d3d4e987af31927064a81f12e618b38d569072fd920998ca11199a16a71163f",
+    "hash": "11f622c65581b46dcb9d64496c99f3f35fd62850",
     "size": 15136731,
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/resourcepacks/WacoRP Part 3.zip"
   }
