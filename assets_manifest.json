@@ -210,6 +210,12 @@
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/Saros-Road-Signs-Mod-1.20.1-4.5.jar"
   },
   {
+    "path": "mods/Scribble-1.5.1-mc1.20.1-forge.jar",
+    "hash": "27c1cf656d8817e489a778a562b7f06711e13a09",
+    "size": 270676,
+    "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/Scribble-1.5.1-mc1.20.1-forge.jar"
+  },
+  {
     "path": "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
     "hash": "706d3eaf79ce5b33a30f3ad1aaa88a2a4483abf6",
     "size": 160887,
