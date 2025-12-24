@@ -48,6 +48,18 @@
     "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/cfm-forge-1.20.1-7.0.0-pre36.jar"
   },
   {
+    "path": "mods/clickthrough-plus-forge-3.5.1+1.20.1.jar",
+    "hash": "90211f07d6f87ce9c5a3c63f53aa07ebd8546610",
+    "size": 248322,
+    "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/clickthrough-plus-forge-3.5.1+1.20.1.jar"
+  },
+  {
+    "path": "mods/cloth-config-11.1.136-forge.jar",
+    "hash": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+    "size": 1181413,
+    "url": "https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets/mods/cloth-config-11.1.136-forge.jar"
+  },
+  {
     "path": "mods/CreativeCore_FORGE_v2.12.28_mc1.20.1.jar",
     "hash": "1df4be91a66108003d71c1e5118b34327da83f57",
     "size": 1153850,
