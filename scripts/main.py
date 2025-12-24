@@ -111,7 +111,7 @@ if __name__ == "__main__":
     }
     
     files = scan_assets_directory(
-        assets_dir='../assets',
+        assets_dir='./assets',
         base_url='https://raw.githubusercontent.com/Homanti/wacorp-assets/main/assets',
         output_file='assets_manifest.json',
         special_files=special_files

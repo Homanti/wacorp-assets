@@ -65,7 +65,7 @@ def update_forge_json_hash(
 
 if __name__ == "__main__":
     update_forge_json_hash(
-        json_path='../1.20.1-47.4.13/meta.json',
+        json_path='./1.20.1-47.4.13/meta.json',
         forge_file_path='./forge-1.20.1-47.4.13-installer.jar',
         classifier='installer',
         extension='jar'
